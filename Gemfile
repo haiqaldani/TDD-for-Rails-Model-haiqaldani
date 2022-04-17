@@ -78,3 +78,6 @@ group :development, :test do
   gem "factory_bot_rails"
   gem "faker"
 end
+gem "rspec", "~> 3.11"
+
+gem "rspec-core", "~> 3.11"

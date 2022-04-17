@@ -178,6 +178,10 @@ GEM
     reline (0.3.1)
       io-console (~> 0.5)
     rexml (3.2.5)
+    rspec (3.11.0)
+      rspec-core (~> 3.11.0)
+      rspec-expectations (~> 3.11.0)
+      rspec-mocks (~> 3.11.0)
     rspec-core (3.11.0)
       rspec-support (~> 3.11.0)
     rspec-expectations (3.11.0)
@@ -250,6 +254,8 @@ DEPENDENCIES
   nokogiri
   puma (~> 5.0)
   rails (~> 7.0.1)
+  rspec (~> 3.11)
+  rspec-core (~> 3.11)
   rspec-rails
   selenium-webdriver
   sprockets-rails
